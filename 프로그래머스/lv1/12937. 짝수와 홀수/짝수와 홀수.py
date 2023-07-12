@@ -1,6 +1,6 @@
 def solution(num):
     if(num%2 == 0):
-        answer = 'Even'
+        answer = 'Even' # 0일때
     else:
-        answer = 'Odd'
+        answer = 'Odd' # 0이 아닐 경우
     return answer
