@@ -4,6 +4,6 @@ def solution(a, b):
         for i in range(a,b+1): # a가 b보다 작거나 같을 경우
             answer += i
     else: # a>b 즉, a가 n보다 클 경우
-        for i in range(a,b-1,-1):
+        for i in range(a,b-1,-1): # (start,stop,step)
             answer += i
     return answer
