@@ -12,7 +12,7 @@
 
 ### 채점결과
 
-Empty
+correct answer
 
 ### 문제 설명
 
