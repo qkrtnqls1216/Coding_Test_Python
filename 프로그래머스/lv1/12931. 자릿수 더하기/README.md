@@ -12,7 +12,7 @@
 
 ### 채점결과
 
-correct answer
+success
 
 ### 문제 설명
 
